@@ -8,7 +8,7 @@ import { SiteContentProvider } from "./context/SiteContentContext";
 
 // Keep the large admin workspace out of the public-site bundle. This also makes
 // the public homepage resilient if an admin-only feature is being updated.
-// na const AdminGate = lazy(() => import("./admin/AdminGate"));
+const AdminGate = lazy(() => import("./admin/AdminGate"));
 
 function NotFound() {
   return <div className="flex min-h-screen items-center justify-center bg-slate-50 px-6 text-center"><div><p className="text-xs font-black uppercase tracking-[0.18em] text-blue-600">Zeonnex Group</p><h1 className="mt-3 text-4xl font-black text-slate-900">This page is not available.</h1><p className="mt-3 text-slate-500">It may still be a draft or the address may have changed.</p><a href="/" className="mt-7 inline-flex rounded-full bg-blue-600 px-6 py-3 text-sm font-bold text-white">Back to homepage</a></div></div>;
