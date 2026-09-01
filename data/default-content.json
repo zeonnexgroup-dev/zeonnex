@@ -1,0 +1,366 @@
+{
+  "settings": {
+    "companyName": "Zeonnex Group",
+    "brandName": "ZEONNEX",
+    "brandSuffix": "GROUP",
+    "logo": "/images/logo-wide.png",
+    "tagline": "Vision · Value · Versatility",
+    "email": "contact@zeonnexgroup.com",
+    "phone": "+91 94446 47200",
+    "whatsapp": "+91 94446 47200",
+    "address": "Zeonnex Group HQ, Business Bay, Chennai, India",
+    "website": "www.zeonnexgroup.com"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Divisions",
+      "href": "#divisions"
+    },
+    {
+      "label": "Solutions",
+      "href": "#solutions"
+    },
+    {
+      "label": "Interior",
+      "href": "#interior"
+    },
+    {
+      "label": "Import & Export",
+      "href": "#trading"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "badge": "Vision · Value · Versatility",
+    "headingPrefix": "Building Trust Across",
+    "headingHighlight": "Solutions, Spaces & Sourcing",
+    "description": "Zeonnex Group is a future-ready enterprise delivering excellence through three powerful divisions — IT & business solutions, interior design, and global import-export consulting & sourcing. One consultation, endless possibilities.",
+    "primaryCtaLabel": "Explore Our Divisions",
+    "primaryCtaHref": "#divisions",
+    "secondaryCtaLabel": "Book a Consultation",
+    "secondaryCtaHref": "#contact",
+    "image": "https://images.pexels.com/photos/8112162/pexels-photo-8112162.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=900&w=1200",
+    "cardEyebrow": "Trusted Consulting",
+    "cardTitle": "3 Divisions. One Vision.",
+    "transparencyValue": "100%",
+    "transparencyLabel": "Transparent Process",
+    "stats": [
+      {
+        "value": "150",
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "3",
+        "suffix": "",
+        "label": "Global Divisions"
+      },
+      {
+        "value": "12",
+        "suffix": "+",
+        "label": "Countries Connected"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client Satisfaction"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About Zeonnex Group",
+    "title": "A Dynamic, Future-Ready Enterprise Delivering Excellence Across Industries",
+    "paragraphOne": "Zeonnex Group brings together technology, design, and global trade under one roof. With a bold vision and unwavering commitment to quality, we lead in IT & business solutions, interior design, and international product sourcing — driven by trust, innovation, and impact.",
+    "paragraphTwo": "Whether you're upgrading your business technology, designing a dream space, or sourcing products from verified global manufacturers — Zeonnex Group brings vision, value, and versatility to every partnership.",
+    "image": "https://images.pexels.com/photos/8190804/pexels-photo-8190804.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1100",
+    "experienceValue": "10+",
+    "experienceLabel": "Years of combined leadership experience",
+    "whyUs": [
+      {
+        "title": "Verified Global Network",
+        "description": "Partnerships with trusted manufacturers and vendors across China, India and the Middle East.",
+        "icon": "globe"
+      },
+      {
+        "title": "End-to-End Execution",
+        "description": "From sourcing to delivery, from design to build — we manage every step with precision.",
+        "icon": "layers"
+      },
+      {
+        "title": "Transparent Process",
+        "description": "Clear pricing, honest timelines and constant communication at every stage of your project.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-Industry Expertise",
+        "description": "A single group spanning IT, interior design and international trade — one partner, many solutions.",
+        "icon": "layout"
+      }
+    ]
+  },
+  "divisions": [
+    {
+      "id": "solutions",
+      "tag": "ZEONNEX SOLUTIONS",
+      "title": "IT Products & Business Solutions",
+      "description": "From enterprise hardware to smart office technology, Zeonnex Solutions equips businesses with reliable IT products and digital infrastructure that scale with you.",
+      "image": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
+      "secondaryImage": "https://images.pexels.com/photos/8468513/pexels-photo-8468513.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=500&w=700",
+      "icon": "cpu",
+      "tint": "light",
+      "services": [
+        "IT Hardware & Networking Supply",
+        "Software & Digital Solutions",
+        "Office Automation & Stationery",
+        "Corporate Bulk IT Procurement",
+        "Managed Tech Support & AMC",
+        "Cloud & Cybersecurity Consulting"
+      ]
+    },
+    {
+      "id": "interior",
+      "tag": "ZEONNEX INTERIOR",
+      "title": "Interior Design & Turnkey Fit-outs",
+      "description": "Zeonnex Interior crafts inspiring residential and commercial spaces — blending aesthetics, functionality and 3D visualization to bring your vision to life.",
+      "image": "https://images.pexels.com/photos/7546323/pexels-photo-7546323.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
+      "secondaryImage": "https://images.pexels.com/photos/7174113/pexels-photo-7174113.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=500&w=700",
+      "icon": "sofa",
+      "tint": "dark",
+      "services": [
+        "Residential Interior Design",
+        "Commercial & Office Fit-outs",
+        "Modular Furniture & Décor",
+        "3D Space Visualization",
+        "Turnkey Project Execution",
+        "Lighting & Space Planning"
+      ]
+    },
+    {
+      "id": "trading",
+      "tag": "ZEONNEX HUB",
+      "title": "Import, Export Consulting & Sourcing",
+      "description": "Your trusted link to global manufacturers. Zeonnex Hub delivers end-to-end sourcing, quality assurance and import-export consulting connecting China, India and the Middle East.",
+      "image": "https://images.pexels.com/photos/20581299/pexels-photo-20581299.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
+      "secondaryImage": "https://images.pexels.com/photos/31090810/pexels-photo-31090810.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=500&w=700",
+      "icon": "ship",
+      "tint": "light",
+      "services": [
+        "Product Sourcing from Verified Manufacturers",
+        "Import & Export Consulting",
+        "Quality Assurance & Inspection",
+        "Logistics, Customs & Last-Mile Delivery",
+        "Custom Business Solutions",
+        "Documentation & Compliance Support"
+      ]
+    }
+  ],
+  "industries": [
+    {
+      "title": "Office & Stationery Supplies",
+      "icon": "briefcase"
+    },
+    {
+      "title": "Customized & Bulk Corporate Orders",
+      "icon": "boxes"
+    },
+    {
+      "title": "Furniture & Home Décor",
+      "icon": "sofa"
+    },
+    {
+      "title": "Electronics & Gadgets",
+      "icon": "cpu"
+    },
+    {
+      "title": "Textiles & Apparel",
+      "icon": "shirt"
+    },
+    {
+      "title": "Industrial Equipment & Machinery",
+      "icon": "factory"
+    },
+    {
+      "title": "Construction & Building Materials",
+      "icon": "building"
+    },
+    {
+      "title": "Health, Beauty & Lifestyle Products",
+      "icon": "sparkles"
+    }
+  ],
+  "globalReach": {
+    "eyebrow": "Our Global Reach",
+    "title": "Connecting China, India & the Middle East",
+    "description": "Zeonnex Group proudly bridges continents — linking top-tier manufacturers, growing markets, and ambitious businesses through seamless sourcing, consulting, and logistics. Together, we go further.",
+    "hubs": [
+      {
+        "name": "China",
+        "desc": "Manufacturing & Product Sourcing",
+        "top": "34%",
+        "left": "78%"
+      },
+      {
+        "name": "India",
+        "desc": "Operations & Consulting HQ",
+        "top": "52%",
+        "left": "66%"
+      },
+      {
+        "name": "Middle East",
+        "desc": "Trade & Logistics Gateway",
+        "top": "46%",
+        "left": "56%"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Arvind Menon",
+      "role": "Operations Head, Retail Chain",
+      "quote": "Zeonnex Hub sourced our entire office and stationery inventory at unbeatable prices with zero hassle on logistics or customs."
+    },
+    {
+      "name": "Fatima Al Suwaidi",
+      "role": "Founder, Boutique Studio",
+      "quote": "Zeonnex Interior transformed our showroom into a stunning space. The 3D previews matched the final result perfectly."
+    },
+    {
+      "name": "Karthik Rajan",
+      "role": "IT Manager, Fintech Startup",
+      "quote": "Zeonnex Solutions handled our entire office IT rollout — hardware, networking, and support — on time and on budget."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "title": "Let's Build Something Exceptional. Together.",
+    "description": "Whether you're sourcing a product, upgrading your technology, or designing a space — Zeonnex Group brings vision, value, and versatility to every partnership.",
+    "enquiryOptions": [
+      "Zeonnex Solutions — IT & Business Products",
+      "Zeonnex Interior — Design & Fit-outs",
+      "Zeonnex Hub — Import, Export & Sourcing",
+      "General Enquiry"
+    ]
+  },
+  "footer": {
+    "description": "A future-ready enterprise delivering excellence in IT solutions, interior design, and global import-export consulting & sourcing.",
+    "tagline": "Designed with vision, value & versatility."
+  },
+  "divisionOverview": {
+    "eyebrow": "Our Divisions",
+    "title": "Three Divisions. One Powerful Group.",
+    "description": "Every division of Zeonnex Group operates with the same commitment to quality, transparency and results — tailored to a different world of expertise."
+  },
+  "industriesOverview": {
+    "eyebrow": "Industries We Serve",
+    "title": "Sourcing & Solutions Across Every Sector",
+    "description": "From office essentials to industrial equipment, Zeonnex Hub connects businesses with reliable products across a wide range of industries."
+  },
+  "testimonialsOverview": {
+    "eyebrow": "Client Stories",
+    "title": "What Our Partners Say"
+  },
+  "ui": {
+    "letsTalkLabel": "Let's Talk",
+    "bookConsultationLabel": "Book a Consultation",
+    "learnMoreLabel": "Learn more",
+    "consultationLabel": "Get a Free Consultation",
+    "quickLinksLabel": "Quick Links",
+    "divisionsFooterLabel": "Our Divisions",
+    "footerContactLabel": "Contact",
+    "adminLoginLabel": "Admin login"
+  },
+  "pageBuilder": {
+    "homepage": {
+      "id": "homepage",
+      "title": "Home",
+      "slug": "",
+      "status": "published",
+      "showInNavigation": false,
+      "navigationLabel": "Home",
+      "blocks": [
+        {
+          "id": "site-hero",
+          "type": "siteHero",
+          "label": "Homepage Hero",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-about",
+          "type": "siteAbout",
+          "label": "About Section",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-divisions",
+          "type": "siteDivisions",
+          "label": "Division Overview",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-solutions",
+          "type": "siteSolutions",
+          "label": "Solutions Division",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-interior",
+          "type": "siteInterior",
+          "label": "Interior Division",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-trading",
+          "type": "siteTrading",
+          "label": "Trading Division",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-industries",
+          "type": "siteIndustries",
+          "label": "Industries",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-global-reach",
+          "type": "siteGlobalReach",
+          "label": "Global Reach",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-testimonials",
+          "type": "siteTestimonials",
+          "label": "Testimonials",
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "site-contact",
+          "type": "siteContact",
+          "label": "Contact Section",
+          "visible": true,
+          "settings": {}
+        }
+      ]
+    },
+    "pages": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "homepage": {
+    "id": "homepage",
+    "title": "Home page",
+    "slug": "",
+    "status": "published",
+    "showInNavigation": false,
+    "navigationLabel": "Home",
+    "blocks": [
+      {
+        "id": "site-hero",
+        "type": "siteHero",
+        "label": "Homepage Hero",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-about",
+        "type": "siteAbout",
+        "label": "About Section",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-divisions",
+        "type": "siteDivisions",
+        "label": "Division Overview",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-solutions",
+        "type": "siteSolutions",
+        "label": "Solutions Division",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-interior",
+        "type": "siteInterior",
+        "label": "Interior Division",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-trading",
+        "type": "siteTrading",
+        "label": "Trading Division",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-industries",
+        "type": "siteIndustries",
+        "label": "Industries",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-global",
+        "type": "siteGlobalReach",
+        "label": "Global Reach",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-testimonials",
+        "type": "siteTestimonials",
+        "label": "Testimonials",
+        "visible": true,
+        "settings": {}
+      },
+      {
+        "id": "site-contact",
+        "type": "siteContact",
+        "label": "Contact",
+        "visible": true,
+        "settings": {}
+      }
+    ]
+  },
+  "pages": []
+}
