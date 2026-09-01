@@ -6,7 +6,7 @@ import { DEFAULT_BUILDER, DEFAULT_SITE_SETTINGS, PERMISSION_SEEDS, ROLE_SEEDS } 
 // Keep raw bodies available for JSON and media uploads.
 export const config = { api: { bodyParser: false } };
 
-//const SESSION_COOKIE = "zeonnex_admin_session";
+const SESSION_COOKIE = "zeonnex_admin_session";
 //const SESSION_SECONDS = 60 * 60 * 12;
 //let client;
 //let initialisePromise;
