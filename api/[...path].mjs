@@ -7,9 +7,9 @@ import { DEFAULT_BUILDER, DEFAULT_SITE_SETTINGS, PERMISSION_SEEDS, ROLE_SEEDS } 
 export const config = { api: { bodyParser: false } };
 
 const SESSION_COOKIE = "zeonnex_admin_session";
-//const SESSION_SECONDS = 60 * 60 * 12;
-//let client;
-//let initialisePromise;
+const SESSION_SECONDS = 60 * 60 * 12;
+let client;
+let initialisePromise;
 
 function jsonSafe(value) {
   if (typeof value === "bigint") return Number(value);
