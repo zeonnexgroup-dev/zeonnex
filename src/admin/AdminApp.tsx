@@ -7,7 +7,7 @@ import {
   HiOutlinePhoto, HiOutlineTrash, HiOutlineUsers, HiPencilSquare, HiXMark,
 } from "react-icons/hi2";
 import { DEFAULT_PAGE_BUILDER, type BlockType, type BuilderBlock, type BuilderPage, type PageBuilderData } from "../page-builder/types";
-import type { AdminSessionUser } from "./AdminGate";
+//import type { AdminSessionUser } from "./AdminGate";
 
 type Section = "dashboard" | "builder" | "pages" | "media" | "enquiries" | "access" | "settings";
 type ToastTone = "success" | "error" | "info";
